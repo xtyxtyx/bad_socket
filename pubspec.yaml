@@ -1,6 +1,6 @@
 name: bad_socket
 description: Add constrains to your Socket to simulate realworld network connections.
-version: 0.1.0+1
+version: 0.1.1
 homepage: https://github.com/xtyxtyx/bad_socket
 author: xuty <xty50337@hotmail.com>
 
